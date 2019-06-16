@@ -1,0 +1,5 @@
+(Cluster-Services)
+(Webserver)
+(Serverside)(docker image) Nodejs- meteor 
+(frontend) Angular 6 
+(Backend)NoSQl backend- redis 
